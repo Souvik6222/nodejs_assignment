@@ -5,6 +5,8 @@ REST API built using Express.js to manage student CGPA records using in-memory J
 ##  Objective
 Create RESTful GET APIs for student performance.
 
+## postman docs link -- https://documenter.getpostman.com/view/50839487/2sBXcGCeJY
+
 ##  Routes Implemented
 
 | Method | Route                        | Description |
